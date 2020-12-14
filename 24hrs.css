@@ -71,7 +71,7 @@ body {
       position: relative;
       width: 55%;
       left: 0%;
-      font-size: 50px;
+      font-size: 20px;
       font-family: font-family: 'EB Garamond', serif;
       color: rgba(130, 20, 120,0);
       text-align: center;
@@ -209,8 +209,8 @@ body {
     align-self: center;
     align-content: center;
     border: 2px ridge black;
-    min-width: 15%;
-    max-width: 15%;
+    min-width: 30%;
+    max-width: 30%;
     color: #ffd700;
     text-decoration: none;
     background: rgba(0,0,0,0.8);
